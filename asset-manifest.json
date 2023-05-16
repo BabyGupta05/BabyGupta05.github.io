@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.30e6fa3b.css",
+    "main.js": "/static/js/main.c271ca2e.js",
+    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/Baby_Gupta_Resume.pdf": "/static/media/Baby_Gupta_Resume.b1654fe7284136f516cc.pdf",
+    "static/media/profile.png": "/static/media/profile.0493e447bdaf7264cde3.png",
+    "index.html": "/index.html",
+    "main.30e6fa3b.css.map": "/static/css/main.30e6fa3b.css.map",
+    "main.c271ca2e.js.map": "/static/js/main.c271ca2e.js.map",
+    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30e6fa3b.css",
+    "static/js/main.c271ca2e.js"
+  ]
+}
