@@ -1,5 +1,6 @@
 import React from 'react'
 import Qualification from './Qualification'
+// import AboutImage from '../../assets/about.jpg';
 import Info from './Info'
 import resume from '../../assets/Baby_Gupta_Resume.pdf';
 import './about.css'
@@ -10,20 +11,20 @@ const About = () => {
        <span className="section__subtitle">My Introduction</span>
       <div className="about__container container grid">
         <div>
-          {/* <img src={AboutImage} alt="baby_Gupta " className="about__img" /> */}
+          {/* <img src={AboutImage} alt="baby_Gupta "  className="about__img"/> */}
           <Qualification/>
           </div>
         
         <div className="about__data">
             <Info/>
-            <p className="about__description">As a Full Stack MERN developer, I deliver end-to-end web solutions with analytical thinking,
+            <p className="about__description" id='user-detail-intro'>As a Full Stack MERN developer, I deliver end-to-end web solutions with analytical thinking,
 creativity, and reliability. I stay updated with the
 latest technology trends and work well in crossfunctional teams. I am committed to exceeding
 expectations by delivering innovative solutions
 on time and to the highest standards.I look
 forward to the opportunity to contribute my
 skills and expertise to your organization.</p>
-<a download="" href={resume} className="button button--flex">Resume <svg
+<a download="" href={resume} className="button button--flex " id="resume-link-2">Resume <svg
                 class="button__icon"
                 xmlns="http://www.w3.org/2000/svg"
                 width="24"
