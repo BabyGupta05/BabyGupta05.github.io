@@ -21,7 +21,7 @@ export default function About() {
       <div>
         <div data-aos="fade-up" className=" first">
           <p id="user-detail-intro">
-          Welcome to my coding realm, where I transform coffee into lines of code! <p style={{ display: 'inline-block' }} className="sauce">I'm Bharat</p>
+          Welcome to my coding realm, where I transform coffee into lines of code! <p style={{ display: 'inline-block' }} className="sauce">I'm baby</p>
           , a proficient full stack web developer. 
           My expertise spans across HTML5, CSS3, JavaScript, ReactJs, NodeJs, Express, and I'm well-versed in working with database 
           technologies like MongoDB. My true passion lies in crafting websites that not only boast impressive aesthetics but also elicit 
