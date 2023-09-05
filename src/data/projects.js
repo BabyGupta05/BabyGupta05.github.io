@@ -1,45 +1,45 @@
 export default function getProjects() {
     return [
       {
-        img:"",
+   
         id: 1,
-        image:'Adventour.png',
-        projectTitle: "Adventour",
+        image:'portfolio.png',
+        projectTitle: "Portfolio",
         projectInfo:
-         "This is a International travel booking website, Adventour which is an International package booking site as a booking service",
+         "My profile for fullstack",
         techUsed: ["ReactJs", "Redux","Chakra UI", "HTML", "CSS"],
-        projectLinkHosted: "https://adventour-app.vercel.app/",
-        projectLinkGithub: "https://github.com/Bharat-Shaw/Adventour",
+        projectLinkHosted: "https://babygupta05.github.io/",
+        projectLinkGithub: "https://github.com/BabyGupta05/BabyGupta05.github.io",
       },
       {
-        img:"",
+       
         id: 2,
-        image:'tata1mg.png',
-        projectTitle: "Tata-1Mg-Clone",
+        image:'Faballey.png',
+        projectTitle: "Faballey",
         projectInfo:
-         "Tata 1mg is your trusted online healthcare partner. With a wide range of genuine medicines, reliable diagnostic tests, and convenient home delivery, we ensure your health is our top priority.",
+         "clone of faballey ecommerce",
         techUsed: ["JavaScript", "HTML", "CSS"],
-        projectLinkHosted: "https://1mg-clone-gray.vercel.app/",
-        projectLinkGithub: "https://github.com/Bharat-Shaw/1mg-clone",
+        projectLinkHosted: "https://faballey-web.netlify.app/",
+        projectLinkGithub: "https://github.com/BabyGupta05/faballey",
       },
       {
         id: 3,
-        projectTitle: "Nykaa-Clone",
-        image:'Nykaa-clone.png',
-        projectInfo: "It's a clone of Nykaa Cosmetic app created using HTML, CSS, vanila js, bootstrap",
-        techUsed: ["vanilaJs", "HTML", "CSS"],
-        projectLinkHosted: "https://nykaa-clone-x4n7.vercel.app/",
-        projectLinkGithub: "https://github.com/Bharat-Shaw/NYKAA-Clone",
+        projectTitle: "IKEA",
+        image:'Ikea.png',
+        projectInfo: "It's a clone of IKEA app created using HTML, CSS, js",
+        techUsed: ["HTML", "CSS"],
+        projectLinkHosted: "https://ik-ea-clone.vercel.app/",
+       
       },
       {
         id: 4,
-        projectTitle: "Portfolio",
-        image:"portfolio.png",
+        projectTitle: "PharmEasy",
+        image:"PharmEasy.png",
         projectInfo:
           "It's a Portfolio App anyone can see my all project, skills, contact details, etc.",
         techUsed: ["JavaScript", "HTML", "CSS"],
-        projectLinkHosted: "https://bharat-shaw.github.io/",
-        projectLinkGithub: "https://github.com/Bharat-Shaw/Bharat-Shaw.github.io",
+        projectLinkHosted: "https://pharmeasy-web-site-clone.netlify.app/",
+       
       }
     ];
   }

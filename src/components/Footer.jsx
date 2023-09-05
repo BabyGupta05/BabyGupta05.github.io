@@ -24,11 +24,11 @@ export default function Footer() {
         </div>
         <div className="copyright">
           <a href="https://github.com/BabyGupta05">
-            Designed and built by Bharat Shaw{" "}
+            Designed and built by Baby Gupta{" "}
             <FontAwesomeIcon icon={faHeart} />
           </a>
         </div>
-          <a href="mailto: bharat.teachief0171@gmail.com" id="contact-email">bharat.teachief0171@gmail.com<hr /></a>
+          <a href="mailto: codecode355@gmail.com" id="contact-email">codecode355@gmail.com<hr /></a>
       </div>
     </footer>
   );

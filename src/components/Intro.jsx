@@ -21,7 +21,7 @@ export default function Intro({ handleClick, boolean }) {
           Namaste<span className="wave">🙏</span>, my name is
         </div>
         <div id="user-detail-name" className="newname">
-          Bharat Shaw.
+          Baby Gupta.
         </div>
         <div className="bio what-i-do">
           <Typewriter
